@@ -2,7 +2,7 @@
 
 My Name is Ronit. I am a BCA graduate, with most of my learning coming from projects in C++, C and Python.
 
-- 🔭 I’m currently working with Vyorius
+- 🔭 I’m currently interning at [Vyorius](https://www.vyorius.com/)
 - 🌱 I’m currently learning C++, DSA, Qt/QML
 - 📫 How to reach me: https://www.linkedin.com/in/ronit-ninania/
 - ⚡ Check out my projects; I have most of them public. Currently my favourite is [this](https://github.com/ParsleyJoe/SysMonitor)
